@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `Hi i miss your prsence. This week i was really really sick and wanted to spam messages sayo.\n I wish i could have met you a bit earlier. Maybe i would have seen that cute little you instead of just looking at them in pictures.\n\nI miss you so much. I know you're doing well. Neshs is having a SN are you coming? we'd like to come if it's possible.\n\nI never wanted to be a bloke of the past but it seems inevitable in your world. Senior's life is moving fast. Hold on to it before you get taken away.\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
